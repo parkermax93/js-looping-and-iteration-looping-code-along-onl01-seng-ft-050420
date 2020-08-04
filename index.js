@@ -1,3 +1,5 @@
-for (let age = 30; age < 40; age++) {
-  console.log(`I'm ${age} years old. Happy birthday to me!`);
+function writeCards(names, birthday) {
+  for (let count = 0; count < names.length; count++) {
+    console.log(Thank you ${name} for your )
+  }
 }
