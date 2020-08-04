@@ -6,7 +6,7 @@ function writeCards(names, event) {
   return cards 
   }
   
-function countdown() {
-  let x = t/f ;
+function countdown(countdown) {
+  let countdown = 10;
   while()
 }
