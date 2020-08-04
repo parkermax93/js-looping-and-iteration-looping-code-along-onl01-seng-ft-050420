@@ -6,11 +6,10 @@ function writeCards(names, event) {
   return cards 
   }
   
-function countdown( countdown ) {
-  let countdown = []; 
+function countdown(countdown) {
   while ( countdown > 0 ) {
-    console.log( countdown );
+    console.log(countdown);
     countdown -= 1;
   }
-  console.log( countdown );
+  console.log(countdown);
 }
