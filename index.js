@@ -5,3 +5,8 @@ function writeCards(names, event) {
   }
   return cards 
   }
+  
+function countdown() {
+  let x = t/f ;
+  while()
+}
