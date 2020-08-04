@@ -10,4 +10,5 @@ function countdown(n) {
     while (n >= 0) {
       console.log(n--);
     }
+    console.log(countdown);
 }
