@@ -6,9 +6,8 @@ function writeCards(names, event) {
   return cards 
   }
   
-function countdown(countdown) {
-  while ( countdown >= 0 ) {
-    console.log(countdown--);
-    countdown -= 1;
-  }
+function countdown(n) {
+    while (n >= 0) {
+      console.log(n--);
+    }
 }
