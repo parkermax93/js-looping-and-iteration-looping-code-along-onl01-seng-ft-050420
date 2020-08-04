@@ -7,6 +7,5 @@ function writeCards(names, event) {
   }
   
 function countdown(countdown) {
-  let countdown = 10;
   while()
 }
